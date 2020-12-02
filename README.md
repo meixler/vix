@@ -5,7 +5,7 @@ This script reproduces the example in the whitepaper.
 
 ## To run
 
-copy vixnearterm.dat and vixnextterm.dat to the same directory as vix.py, then run python3 vix.py
+Copy vixnearterm.dat and vixnextterm.dat to the same directory as vix.py, then run python3 vix.py
 
 ## Contributing
 
