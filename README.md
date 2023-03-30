@@ -1,6 +1,6 @@
 # vix.py
 
-vix.py is a python script that calculates the [CBOE Volatility Index (VIX)](https://markets.cboe.com/tradable_products/vix/) according to the method described in the [CBOE VIX White Paper](https://cdn.cboe.com/resources/futures/vixwhite.pdf).
+vix.py is a python script that calculates the [CBOE Volatility Index (VIX)](https://markets.cboe.com/tradable_products/vix/) according to the method described in the [CBOE VIX White Paper](https://www.math.wustl.edu/~victor/classes/ma456/vixwhite.pdf).
 This script reproduces the example in the whitepaper.
 
 ## To run
